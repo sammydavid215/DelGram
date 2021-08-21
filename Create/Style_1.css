@@ -1,0 +1,173 @@
+body{
+    background-color: rgb(248, 252, 248);
+    justify-items: center;
+    text-align: center;
+    font-family: century;
+}
+.img{
+    height: 550px;
+    border: solid black;
+    border-radius:  15px;
+}
+.a,.b,.j,.h,.A,.p,.t,.T,.ac,
+.ha,.l{
+border: white;
+background-color: white;
+margin: 15px;
+cursor: pointer;
+}
+.del{
+    background-color: white;
+    border: 1px solid #DBDBDB;
+    border-radius: 25px;
+}
+.img2{
+    height: 600px;
+    border: solid black;
+    border-radius: 15px;
+}
+.AB{
+    background-color: white;
+   
+    margin: 0;
+    margin-top: 25px;
+    border: 1px solid #DBDBDB;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 25px;
+}
+.Already{
+    height: 40px;
+    width: 300px;
+    margin: 15px;  
+    left: 389px;
+    top: 362px;
+    background-color: white;
+    border: white;
+
+}
+.login{
+margin: 40px;
+padding: 10px;
+border: black;
+background-color: rgb(248, 252, 248);
+color: black;
+top: 10px;
+}
+.Uname, .Pword{
+    height: 0.8cm;
+    width: 8cm;
+    margin: 15px;  
+    border-radius: 5px;
+  
+}
+.flex_grid{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-items: center;
+    background-color: rgb(248, 252, 248);
+    
+}
+.flex_again{
+    display: flex;
+    flex-direction: row;
+    
+   
+    
+}
+.flex_cont{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+.footer{
+    margin: 10px;
+}
+.firstname,.mail,.Pnumber,.Username,.Password{
+    height: 40px;
+    width: 300px;
+    margin: 15px;  
+    left: 389px;
+    top: 362px;
+}
+.cart,.sex,.status{
+    height: 0.7cm;
+    width: 4cm;
+    margin: 5px;
+}
+.start{
+    height: 1.01cm;
+    width: 3cm;
+margin-left: 35px;
+margin-right: 10px;
+}
+.Facebook{
+    height: 0.9cm;
+    width: 8cm;
+    margin: 5px;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
+.Git{
+    height: 0.9cm;
+    width: 8cm;
+    margin: 5px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.Google{
+    height: 0.9cm;
+    width: 8cm;
+    margin: 5px;
+    cursor: pointer;
+}
+.Fname,.Lname,.Email{
+    margin: 10px;
+    height: 0.9cm;
+    width: 8cm;
+    border-radius: 50px;
+}
+.Pnumber{
+    height: 0.9cm;
+    width: 4cm;
+    margin: 0px;
+    margin-right: 1px;
+    margin-left: 20px;
+}
+.Pfrom{
+    margin: 50px;
+}
+.bLog{
+    height: 1cm;
+    width: 8cm;
+    margin: 15px;
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.Log{
+    height: 0.9cm;
+    width: 10cm;
+    margin: 15px;
+    background-color: dodgerblue;
+    color: white;
+    cursor: pointer;
+    font-family: century;
+    font-size: 15px;
+    font-style: bold;
+    
+}
+.create,.click{
+    cursor: pointer;
+    margin: 35px;
+    color: black;
+}
+.image2,.image{
+    height: 1cm;
+    padding: 10px;
+}

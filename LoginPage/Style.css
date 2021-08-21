@@ -1,0 +1,113 @@
+body{
+    background-color: whitesmoke;
+    justify-items: center;
+    text-align: center;
+    font-family: century;
+}
+.don{
+    background-color: white;
+    margin: 5px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border: 1px solid #DBDBDB;
+}
+.Picture{
+    height: 5cm;
+    width: 5cm;
+    margin: 15px;
+}
+.img{
+    height: 550px;
+   
+    
+}
+.sin{
+    color: blue;
+}
+.clog{
+    background-color: white;
+    border: 1px solid #DBDBDB;
+  
+    border-radius: 20px;
+    margin: 10px;
+}
+.img2{
+    height: 600px;
+    border: solid black;
+    border-radius: 15px;
+}
+.Pbutton{
+    height: 1cm;
+    width: 7cm;
+    border-radius: 10px;
+    background-color: cornflowerblue;
+    color: white;
+}
+.login{
+margin: 100px;
+padding: 10px;
+background-color: whitesmoke;
+color: black;
+}
+.Uname,.Pword{
+    height: 40px;
+    width: 300px;
+    margin: 15px;  
+    left: 389px;
+    top: 362px;
+
+  
+}
+.flex_cont{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    flex-direction: row;
+    background-color: whitesmoke;
+    
+}
+.Fname,.Lname,.Email,.Phone,.Cfirm,.Cword,.Cmail{
+    margin: 10px;
+    height: 0.9cm;
+    width: 8cm;
+    border-radius: 10px;
+}
+.Pfrom{
+    margin: 50px;
+}
+.bLog{
+    height: 30px;
+    width: 300px;
+    margin: 15px;
+    left: 389;
+    top: 418px;
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.a,.b,.j,.h,.A,.p,.t,.T,.ac,
+.ha,.l{
+border: white;
+margin: 15px;
+cursor: pointer;
+}
+.dlog{
+   border: white;
+   background-color: white;
+   font-size: 15px;
+   color: black;
+   margin: 10px;
+   border-radius:20px;
+   cursor: pointer;
+    
+}
+.create,.click{
+    cursor: pointer;
+    margin: 35px;
+    color: black;
+}
+.image2,.image{
+    height: 1cm;
+    padding: 10px;
+}
